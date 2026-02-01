@@ -2,7 +2,7 @@
 
 [![Build](https://github.com/hyperpolymath/asdf-haproxy-plugin/actions/workflows/build.yml/badge.svg)](https://github.com/hyperpolymath/asdf-haproxy-plugin/actions/workflows/build.yml)
 [![Lint](https://github.com/hyperpolymath/asdf-haproxy-plugin/actions/workflows/lint.yml/badge.svg)](https://github.com/hyperpolymath/asdf-haproxy-plugin/actions/workflows/lint.yml)
-[![License: PMPL-1.0](https://img.shields.io/badge/License-PMPL--1.0-blue.svg)](LICENSE)
+image:https://img.shields.io/badge/License-PMPL--1.0-blue.svg[License: PMPL-1.0,link="https://github.com/hyperpolymath/palimpsest-license"]
 
 [asdf](https://asdf-vm.com) plugin for [HAProxy](https://www.haproxy.org).
 
